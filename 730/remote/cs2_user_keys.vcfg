@@ -1,0 +1,21 @@
+"config"
+{
+	"bindings"
+	{
+		"`"		"<unbound>"
+		"="		"toggleconsole"
+		"c"		"+voicerecord"
+		"MOUSE4"		"<unbound>"
+		"x"		"+radialradio"
+		"MWHEELUP"		"invprev"
+		"MOUSE1"		"+attack"
+		"n"		"+radialradio3"
+		"j"		"toggle voice_modenable 1 0"
+		"l"		"kill"
+		"v"		"noclip"
+		","		"toggle cl_draw_only_deathnotices"
+		"."		"toggle spec_show_xray"
+		"k"		"bot_place"
+		"TAB"		"<unbound>"
+	}
+}
